@@ -13,6 +13,12 @@ Spin the globe, discover a station in Tokyo, Lagos, or São Paulo  and instantly
 
 ---
 
+## You can view the wireframe design in the Figma link below:
+
+https://www.figma.com/design/cXNBp6s5u06rZVB7f0ueI9/Untitled?node-id=0-1&t=ePdNW7DKFhbSQBSP-1
+
+---
+
 ##  Why It Matters
 
 **The Problem:**
@@ -95,6 +101,7 @@ Clean, intuitive design with easy navigation between Home, Favorites, Browse, Se
 3. **Solves Real Problems**: Bridges the gap between radio discovery and music streaming
 4. **Scalable Architecture**: Modern tech stack supports growth and new features
 5. **Personal & Global**: Balances local relevance with global exploration
+
 
 
 
