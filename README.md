@@ -96,46 +96,7 @@ Clean, intuitive design with easy navigation between Home, Favorites, Browse, Se
 4. **Scalable Architecture**: Modern tech stack supports growth and new features
 5. **Personal & Global**: Balances local relevance with global exploration
 
----
 
-##  Design Philosophy
 
-Our design prioritizes:
-- **Simplicity** - Clean interface that doesn't overwhelm
-- **Discoverability** - Recommendations that feel personal and relevant
-- **Seamless Integration** - Moving from radio to Spotify should feel natural
-- **Cultural Connection** - Helping users explore global sounds and perspectives
-
----
-
-##  Platform Availability
-
-- **Web Application** - Accessible via any modern browser
-- **Mobile-Responsive** - Optimized for mobile and tablet devices
-- **Future**: Native iOS and Android apps planned
-
----
-
-## The Vision
-
-Radio Garden Enhanced transforms an unknown gem into a discovery-driven platform that connects people across borders through the universal language of music and radio. By combining the serendipity of live radio with the convenience of modern streaming, we're making global listening accessible, personal and unforgettable.
-
-**Discover local. Explore global. Stream seamlessly.**
-
----
-
-##  Connect With Us
-
-- **Repository**: [github.com/yourusername/radio-garden-enhanced]
-- **Live Demo**: [Coming Soon]
-- **Figma Wireframes**: [Your Figma Link]
-
----
-
-## 📄 License
-
-This project is built as an educational enhancement concept for Radio Garden.
-
----
 
 
